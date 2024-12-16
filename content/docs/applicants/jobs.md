@@ -124,7 +124,7 @@ Graders work through [codePost](https://codepost.io) to provide high-quality and
 
 **Responsibilities (~3-5 hrs/week):**
 
-- Attend weekly grader meeting (in-person only) on **Tuesdays 4:30-7:00pm** to review the rubric and complete all grading synchronously. Dinner is provided. Must be able to commit to attend the grading meeting for the entire semester (~2.5 h/week). <!--As of Spring 2024, this meeting is on Tuesdays 4:30-7pm.-->
+- Attend weekly grader meeting (in-person only) on **Tuesdays 4:30-7:00pm** to review the rubric and complete all grading synchronously. Food is provided. Must be able to commit to attend the grading meeting for the entire semester - 10 meetings at ~2.5 h/each.  <!--As of Spring 2024, this meeting is on Tuesdays 4:30-7pm.-->
 
 - Grade late and remaining assignments asynchronously as needed (max ~1h/week).
 
@@ -140,7 +140,7 @@ Graders work through [codePost](https://codepost.io) to provide high-quality and
 
 ### Precept Assistant position
 
-_Supervised by Prof. Ruth Fong (Fall 2024)_
+_Supervised by Prof. Alan Kaplan (Spring 2025_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#126-precept-assistants`)_
 
@@ -168,7 +168,7 @@ A precept assistant may also be hired as a grader or as a COS Lab TA.
 
 **Schedules (updated for Fall 2024):**
 
-Before applying to this position, please confirm you are available for one of the scheduled precepts for COS 126, which you can find [here](https://registrar.princeton.edu/course-offerings/course-details?term=1252&courseid=002051).
+Before applying to this position, please confirm you are available for one of the scheduled precepts for COS 126, which you can find [here](https://registrar.princeton.edu/course-offerings/course-details?term=1254&courseid=002051).
  
 <!--
 | Section         | Days/Time                      |
