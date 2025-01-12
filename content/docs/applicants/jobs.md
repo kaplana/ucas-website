@@ -112,7 +112,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 ### Grader position
 
-_Supervised by Prof. Alan Kaplan (Fall 2024)_
+_Supervised by Prof. Alan Kaplan (Spring 2025)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#126-grading`)_
 
@@ -122,11 +122,23 @@ This position grades the programming assignments and programming exams, in Java.
 
 Graders work through [codePost](https://codepost.io) to provide high-quality and supportive feedback to introductory CS students. A detailed rubric is included. The work consists of reading and understanding the student's code, and providing feedback on the code's correctness, efficiency and clarity.
 
-**Responsibilities (~3-5 hrs/week):**
+**Responsibilities (~2-3 hrs/week):**
 
-- Attend weekly grader meeting (in-person only) on **Tuesdays 4:30-7:00pm** to review the rubric and complete all grading synchronously. Dinner is provided. Must be able to commit to attend the grading meeting for the entire semester (~2.5 h/week). <!--As of Spring 2024, this meeting is on Tuesdays 4:30-7pm.-->
-
+- Attend weekly grader meeting (in-person only) on **Tuesdays 4:30-7:00pm** to review the rubric and complete all grading synchronously.
+- Food is provided.
+- Must be able to commit to attend the grading meeting for the entire semester (~2.5 h/week). 
 - Grade late and remaining assignments asynchronously as needed (max ~1h/week).
+- Schedule of meetings:
+  - Tuesday, February 4  - Hello, World
+  - Tuesday, February 11 - Conditionals and Loops
+  - Tuesday, February 18 - Arrays & IO
+  - Tuesday, February 25 - Functions
+  - Tuesday, March 4 - Recursion
+  - Tuesday, March 25 - OOP
+  - Tuesday, April 1 - Image Classifier
+  - Tuesday, April 8 - Guitar Hero
+  - Tuesday, April 15 - Chat126
+  - Tuesday, April 22 - Programming Exam
 
 **Requirements:**
 
@@ -140,13 +152,15 @@ Graders work through [codePost](https://codepost.io) to provide high-quality and
 
 ### Precept Assistant position
 
-_Supervised by Prof. Ruth Fong (Fall 2024)_
+_Supervised by Prof. Alan Kaplan (Spring 2025)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#126-precept-assistants`)_
 
 **Description:**
 
-Precept assistants are responsible for helping students understand the solutions to a set of active learning exercises during precept (e.g., Java programming exercises, worksheets). You will work alongside a graduate student or faculty preceptor to help students work on these exercises and will answer questions regarding the course material.
+The precept assistant (PA) works under the direction of a COS 126 preceptor.  The PA is an undergraduate student who has taken COS126 previously and is excited to help current COS126 students learn the course material during precept. During precept, students will spend the majority of their time working on various exercises, typically in pairs. Your primary role as a precept assistant is to support students as they work on these exercises. You'll visit with each group of students, sit with them for at least a few minutes, and interject when doing so would save them time or deepen their understanding of the material (more often than not, this is not needed).
+
+Your role is distinct from that of the preceptor, which, in addition to also assisting during exercises,  may include the following responsibilities: taking attendance, making announcements, teaching instructor-led material during precept, pacing precept, communicating with students outside of precept, among other things. That said, depending on your preceptor and their teaching style, you may have an opportunity to share in some of their responsibilities.
 
 A great precept assistant is enthusiastic and patient. They can connect with a wide variety of students, encouraging them to ask questions while explaining the course material in a variety of ways.
 
@@ -154,21 +168,27 @@ A precept assistant may also be hired as a grader or as a COS Lab TA.
 
 **Responsibilities (~3-4 hrs/week) :**
 
-- Prepare by reviewing upcoming precept exercises before class (1h/week)
+- Before each precept, you should do the following:
+  - Do the precept exercises yourself  (1h/week)
+  - Attend periodic debriefing meetings (to be scheduled)
+  - Participate actively and promptly on our Slack channel
 
 - Attend two precepts per week and answer students’ questions (2-3h/week)
 
-- Work under the direction of a preceptor
+- During precept, you should do the following:
+  - Show up on time to precept
+  - Once students start working on the precept’s exercises, visit and observe each group of students for a few minutes at a time, assisting them when needed
+  - Work under the direction of a preceptor
 
 **Requirements:**
 
-- Having taken COS 126 (B+ or better typically)
+- Must have taken COS 126 (B+ or better typically)
 
-- Being able to effectively assist and communicate with a diverse group of students
+- Must be able to effectively assist and communicate with a diverse group of students
 
-**Schedules (updated for Fall 2024):**
+**Schedules (updated for Spring 2025):**
 
-Before applying to this position, please confirm you are available for one of the scheduled precepts for COS 126, which you can find [here](https://registrar.princeton.edu/course-offerings/course-details?term=1252&courseid=002051).
+Before applying to this position, please confirm you are available for one of the scheduled precepts for COS 126, which you can find [here](https://registrar.princeton.edu/course-offerings/course-details?term=1254&courseid=002051).
  
 <!--
 | Section         | Days/Time                      |
